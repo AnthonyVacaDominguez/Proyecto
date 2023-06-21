@@ -43,8 +43,8 @@ print(libro1.get_tipo_pasta())  # Output: Tapa flexible
 print(libro1.get_contador_libro())  # Output: 5
 print(libro1._disponible)  # Output: False
 
-print('INTEGRANTES')
-print('Goya Nuñez Valery Patricia Líder')
-print('Hoyos Galarza Valeska Fiorella')
-print('Contreras Campoverde Carolina Estefanía')
-print('Vaca Dominguez Anthony Roger')
+#INTEGRANTES
+#Goya Nuñez Valery Patricia Líder
+#Hoyos Galarza Valeska Fiorella
+#Contreras Campoverde Carolina Estefanía
+#Vaca Dominguez Anthony Roger
