@@ -75,7 +75,8 @@ print()
 libro = Material("L001", "John Doe", "Python Programming", 2022, "Tech Books", True, 5)
 revista = Revista("R001", "Jane Smith", "Science Weekly")
 
-
-
-
-
+#INTEGRANTES
+#Goya Nuñez Valery Patricia Líder
+#Hoyos Galarza Valeska Fiorella
+#Contreras Campoverde Carolina Estefanía
+#Vaca Dominguez Anthony Roger
