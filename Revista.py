@@ -44,8 +44,8 @@ print(revista1.get_contador_revista())  # Output: 5
 revista1.actualizar_disponibilidad(False)
 print(revista1.disponible)  # Output: False
 
-print('INTEGRANTES')
-print('Goya Nuñez Valery Patricia Líder')
-print('Hoyos Galarza Valeska Fiorella')
-print('Contreras Campoverde Carolina Estefanía')
-print('Vaca Dominguez Anthony Roger')
+#INTEGRANTES
+#Goya Nuñez Valery Patricia Líder
+#Hoyos Galarza Valeska Fiorella
+#Contreras Campoverde Carolina Estefanía
+#Vaca Dominguez Anthony Roger
