@@ -58,8 +58,8 @@ print("=== Información del Periódico ===")
 print(periodico)
 print("Tipo:", periodico.obtener_tipo())
 
-print('INTEGRANTES')
-print('Goya Nuñez Valery Patricia Líder')
-print('Hoyos Galarza Valeska Fiorella')
-print('Contreras Campoverde Carolina Estefanía')
-print('Vaca Dominguez Anthony Roger')
+#INTEGRANTES
+#Goya Nuñez Valery Patricia Líder
+#Hoyos Galarza Valeska Fiorella
+#Contreras Campoverde Carolina Estefanía
+#Vaca Dominguez Anthony Roger
