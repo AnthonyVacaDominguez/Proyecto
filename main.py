@@ -17,7 +17,7 @@ print()
 libro = Material("L001", "John Doe", "Python Programming", 2022, "Tech Books", True, 5)
 revista = Revista("R001", "Jane Smith", "Science Weekly")
 
-pedido1 = Pedido( id = '095412447784', solicitante = 'Luis Macias', lista_material = 'DESARROLLO EN PYTHON', fecha_prestamo ='10/Junio/2023', fecha_devolucion = '15/Junio/2023')
+pedido = Pedido( id = '987654321', solicitante = 'JaneSmith', lista_material = 'DESARROLLO EN PYTHON', fecha_prestamo ='10/Junio/2023', fecha_devolucion = '15/Junio/2023')
 print(pedido1)
 
 #INTEGRANTES
