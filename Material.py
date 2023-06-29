@@ -22,16 +22,16 @@ class Revista(Material):
     def obtener_informacion(self):
         return f"Revista: {self.titulo} ({self.año})"
 
-# Crear instancias de las clases hijas
+
 libro1 = Libro("L001", "John Doe", "Libro de Prueba", "2023", "Editorial XYZ", True, 5)
 revista1 = Revista("R001", "Jane Smith", "Revista de Prueba", "2023", "Editorial ABC", True, 10)
 
-# Obtener información de las instancias
-print(libro1.obtener_informacion())  # Imprime: Libro: Libro de Prueba por John Doe
-print(revista1.obtener_informacion())  # Imprime: Revista: Revista de Prueba (2023)
+
+print(libro1.obtener_informacion())  
+print(revista1.obtener_informacion()) 
 
 
-# Demostración de ejecución de todas las clases
+
 libro = Libro("L001", "John Doe", "Python Programming", 2022, "Tech Books", True, 5)
 revista = Revista("R001", "Jane Smith", "Science Weekly", 2023, "Scientific Publishing", False, 0)
 periodico = Periodico("P001", "David Johnson", "Daily News", 2023, "Media Corp", True, 10)
