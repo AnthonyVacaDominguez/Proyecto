@@ -27,21 +27,21 @@ class Libro:
     def actualizar_disponibilidad(self, disponible):
         self._disponible = disponible
 
-# Crear objetos de tipo libro
+
 libro1 = Libro(1, "Tapa dura")
 libro2 = Libro(2, "Tapa blanda")
 
-# Modificar atributos
+
 libro1.set_id(3)
 libro1.set_tipo_pasta("Tapa flexible")
 libro1.set_contador_libro(5)
 libro1.actualizar_disponibilidad(False)
 
-# Obtener atributos
-print(libro1.get_id())  # Output: 3
-print(libro1.get_tipo_pasta())  # Output: Tapa flexible
-print(libro1.get_contador_libro())  # Output: 5
-print(libro1._disponible)  # Output: False
+
+print(libro1.get_id()) 
+print(libro1.get_tipo_pasta())  
+print(libro1.get_contador_libro())  
+print(libro1._disponible)  
 
 #INTEGRANTES
 #Goya Nuñez Valery Patricia Líder
