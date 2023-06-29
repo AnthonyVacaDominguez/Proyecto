@@ -24,4 +24,9 @@ class Persona(ABC):
     def devolver_libro(self):
         pass
 
+#INTEGRANTES
+#Goya Nuñez Valery Patricia Líder
+#Hoyos Galarza Valeska Fiorella
+#Contreras Campoverde Carolina Estefanía
+#Vaca Dominguez Anthony Roger
 
